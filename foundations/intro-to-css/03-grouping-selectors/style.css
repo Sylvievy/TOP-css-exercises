@@ -1,0 +1,13 @@
+.sub{
+    font-size: 28px;
+    font-family: 'Times New Roman', Helvetica, sans-serif;
+}
+
+.sub.a{
+    color: white;
+    background-color: black;
+}
+
+.sub.b{
+    background-color: yellow;
+}
