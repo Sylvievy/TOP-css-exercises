@@ -1,0 +1,20 @@
+.cool{
+    background-color:rgb(249, 183, 183);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#primo{
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 36px;
+}
+
+.cool.er{
+    font-size: 24px;
+}
+
+#secondo{
+    background-color:rgb(134, 248, 134);
+    font-size: 24px;
+    font-weight: bold;
+}
